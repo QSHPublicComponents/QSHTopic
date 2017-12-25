@@ -1,0 +1,6 @@
+QSHTopic.xcodeproj/xcuserdata/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+QSHTopic.xcodeproj/project.xcworkspace/xcuserdata/
